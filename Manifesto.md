@@ -1,7 +1,7 @@
 # RISC-V Alliance Türkiye Manifestosu
 
 <div align="center">
-  <img src="/assets/logo.svg" >
+  <img src="assets/logo.svg" >
 </div>
 
 ## Giriş
