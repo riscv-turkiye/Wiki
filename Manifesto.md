@@ -1,7 +1,17 @@
+---
+title: Manifesto
+description: 
+published: true
+date: 2026-05-16T16:25:21.006Z
+tags: 
+editor: markdown
+dateCreated: 2026-05-16T16:14:49.691Z
+---
+
 # RISC-V Alliance Türkiye Manifestosu
 
 <div align="center">
-  <img src="assets/logo.svg" >
+  <img src="/assets/logo.svg" >
 </div>
 
 ## Giriş
